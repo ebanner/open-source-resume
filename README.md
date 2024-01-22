@@ -7,6 +7,7 @@
 - https://github.com/SerenityOS/serenity/pull/16472
 - https://github.com/SerenityOS/serenity/pull/16979
 - https://github.com/SerenityOS/serenity/pull/17488
+- https://github.com/SerenityOS/serenity/pull/22904
 
 ### Tampa Devs
 
