@@ -1,4 +1,4 @@
-# 💻 open-source-contributions
+# 💻 open-source-resume
 
 ## 2023
 
