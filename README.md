@@ -11,5 +11,5 @@
 
 ### Tampa Devs
 
-- https://github.com/TampaDevs/tampadevs/pull/119
-- https://github.com/TampaDevs/events.api.tampa.dev/pull/6
+- https://github.com/TampaDevs/tampadevs/pull/119 → Add post-donation thank you page
+- https://github.com/TampaDevs/events.api.tampa.dev/pull/6 → Add Next Event widget endpoint
