@@ -1,8 +1,5 @@
 # 💻 open-source-resume
 
-## 2023
-
-
 | Pull Request                                                                                    | Description                                                          |
 |-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | https://github.com/SerenityOS/serenity/pull/16472                                               | Add man page for the dd command                                      |
