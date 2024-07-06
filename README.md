@@ -8,7 +8,7 @@ My various contributions to open source projects over time
 |--------------------------------------|-----------------------------------------------------------|----------------------------------|------------------------------------|
 | ✅ | https://github.com/SerenityOS/serenity/pull/16472                                               | Add man page for the dd command                                      | 12/2022 |
 | ✅ | https://github.com/SerenityOS/serenity/pull/16979                                               | HexEditor: Add strings to the value inspector                        | 02/2023 |
-| ❌ | https://github.com/SerenityOS/serenity/pull/17488                                               | HexEditor: Display control characters in the value inspector         | 05/2023 |
+| 🟡 | https://github.com/SerenityOS/serenity/pull/17488                                               | HexEditor: Display control characters in the value inspector         | 05/2023 |
 | ❌ | https://github.com/TampaDevs/events.api.tampa.dev/pull/6                                        | Add Next Event widget endpoint                                       | 07/2023 |
 | ✅ | https://github.com/TampaDevs/tampadevs/pull/119                                                 | Add post-donation thank you page                                     | 09/2023 |
 | ✅ | https://github.com/SerenityOS/serenity/pull/22904                                               | Shell: Use reverse iterators for string-based history event searches | 01/2024 |
