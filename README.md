@@ -1,5 +1,9 @@
 # 👨‍💻 open-source-resume
 
+Various contributions to open source projects over time
+
+## Contributions
+
 | Status | Pull Request                                                                                    | Description                                                          |
 |--------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
 | ✅ | https://github.com/SerenityOS/serenity/pull/16472                                               | Add man page for the dd command                                      |
