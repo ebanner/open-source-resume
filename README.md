@@ -1,6 +1,6 @@
 # 👨‍💻 open-source-resume
 
-Various contributions to open source projects over time
+My various contributions to open source projects over time
 
 ## Contributions
 
